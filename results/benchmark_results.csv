@@ -1,0 +1,3 @@
+Algorithm,Path Length,Expanded Nodes,Runtime Seconds
+A*,50,169,0.00114370
+Dijkstra,50,440,0.00239990
